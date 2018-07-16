@@ -1,4 +1,4 @@
-package com.qa.domain;
+package com.qa.persistence.domain;
 
 import java.util.List;
 

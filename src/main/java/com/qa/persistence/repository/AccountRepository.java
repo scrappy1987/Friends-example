@@ -1,4 +1,4 @@
-package com.qa.service.repository;
+package com.qa.persistence.repository;
 
 public interface AccountRepository {
 

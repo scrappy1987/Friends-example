@@ -1,10 +1,10 @@
-package com.qa.service.business;
+package com.qa.business.service;
 
 import javax.inject.Inject;
 
 import org.apache.log4j.Logger;
 
-import com.qa.service.repository.AccountRepository;
+import com.qa.persistence.repository.AccountRepository;
 
 public class AccountServiceImpl implements AccountService {
 

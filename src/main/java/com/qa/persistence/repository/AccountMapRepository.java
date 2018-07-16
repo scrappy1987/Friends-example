@@ -1,4 +1,4 @@
-package com.qa.service.repository;
+package com.qa.persistence.repository;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,8 +9,8 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.inject.Alternative;
 import javax.inject.Inject;
 
-import com.qa.domain.Account;
-import com.qa.domain.Transaction;
+import com.qa.persistence.domain.Account;
+import com.qa.persistence.domain.Transaction;
 import com.qa.util.JSONUtil;
 
 @ApplicationScoped

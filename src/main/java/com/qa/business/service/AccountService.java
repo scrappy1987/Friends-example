@@ -1,4 +1,4 @@
-package com.qa.service.business;
+package com.qa.business.service;
 
 public interface AccountService {
 
